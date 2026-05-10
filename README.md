@@ -1,12 +1,12 @@
 - Hi there 👻
-🔭 I’m currently working on Cloud Infrastructure, Linux Administration, DevOps Automation, and AI-powered workflow solutions
-🌱 I’m currently learning Data Analytics, AI Automation, Advanced Kubernetes, and Terraform
-👯 I’m looking to collaborate on DevOps, Cloud, Automation, and Open Source projects
-🤔 I’m looking for help with AI integration in DevOps workflows and scalable automation architectures
-💬 Ask me about Linux Administration, AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Jenkins, and Cloud Operations
-📫 How to reach me: LinkedIn linkedin.com/in/shourya-chawla2710
-😄 Pronouns: He/Him
-⚡ Fun fact: I enjoy automating repetitive tasks and turning complex infrastructure problems into simple scripts
+- 🔭 I’m currently working on Cloud Infrastructure, Linux Administration, DevOps Automation, and AI-powered workflow solutions
+- 🌱 I’m currently learning Data Analytics, AI Automation, Advanced Kubernetes, and Terraform
+- 👯 I’m looking to collaborate on DevOps, Cloud, Automation, and Open Source projects
+- 🤔 I’m looking for help with AI integration in DevOps workflows and scalable automation architectures
+- 💬 Ask me about Linux Administration, AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Jenkins, and Cloud Operations
+- 📫 How to reach me: LinkedIn linkedin.com/in/shourya-chawla2710
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy automating repetitive tasks and turning complex infrastructure problems into simple scripts
 <!--
 **Shourya2710/Shourya2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
