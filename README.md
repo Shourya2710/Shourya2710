@@ -1,5 +1,5 @@
 - Hi there 👻
-- 🔭 I’m currently working on Cloud Infrastructure, Linux Administration, DevOps Automation, and AI-powered workflow solutions
+- 🔭 I’m currently working on Cloud Infrastructure, Linux Administration, and DevOps
 - 🌱 I’m currently learning Data Analytics, AI Automation, Advanced Kubernetes, and Terraform
 - 👯 I’m looking to collaborate on DevOps, Cloud, Automation, and Open Source projects
 - 🤔 I’m looking for help with AI integration in DevOps workflows and scalable automation architectures
